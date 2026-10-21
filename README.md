@@ -4,7 +4,7 @@
 
 A modern, minimalist portfolio template built with Astro and designed with Apple's design aesthetic in mind.
 
-live demo: [apple-style-portfolio](https://apple-style-portfolio.larryxue.dev/)
+live demo: [apple-style-portfolio](https://apple-style-portfolio.yujay.dev/)
 
 If you find this project helpful, please consider giving it a star ⭐️.
 
@@ -53,11 +53,11 @@ If you're shipping paid projects on it, there are three ways to support the work
 
 ```bash
 # Clone the repository
-git clone https://github.com/larry-xue/apple-style-portfolio
+git clone https://github.com/itsyujay/apple-style-portfolio
 cd apple-style-portfolio
 
 # Or use astro create
-npm create astro@latest -- --template larry-xue/apple-style-portfolio
+npm create astro@latest -- --template itsyujay/apple-style-portfolio
 ```
 
 2. Install dependencies:
@@ -94,7 +94,7 @@ npm run preview
 
 ### Deploy with Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/larry-xue/apple-style-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/itsyujay/apple-style-portfolio)
 
 1. Fork this repository
 2. Connect to Vercel using your GitHub account
@@ -128,10 +128,10 @@ npm run preview
 
 ## More Astro templates
 
-- **[Astroloop](https://github.com/lx-themes/astroloop)** — a landing page for AI agent products: an agent-loop diagram with a human handoff gate, and a per-tool permission matrix. [Demo](https://astroloop.larryxue.dev)
-- [Astro Sassify](https://github.com/larry-xue/astro-sassify-template) — a SaaS landing page with a full design system, dark mode and view transitions. [Demo](https://astro-sassify.larryxue.dev/)
-- [Astro Zen Blog](https://github.com/larry-xue/astro-zen-blog) — a minimal blog, with typography tuned for long-form reading. [Demo](https://astro-zen-blog.larryxue.dev/)
-- [Quiet Bar](https://github.com/larry-xue/quiet-bar) — a one-pager for a bar or restaurant. No CSS framework, no JavaScript libraries. [Demo](https://quiet-bar-theme.larryxue.dev)
+- **[Astroloop](https://github.com/lx-themes/astroloop)** — a landing page for AI agent products: an agent-loop diagram with a human handoff gate, and a per-tool permission matrix. [Demo](https://astroloop.yujay.dev)
+- [Astro Sassify](https://github.com/itsyujay/astro-sassify-template) — a SaaS landing page with a full design system, dark mode and view transitions. [Demo](https://astro-sassify.yujay.dev/)
+- [Astro Zen Blog](https://github.com/itsyujay/astro-zen-blog) — a minimal blog, with typography tuned for long-form reading. [Demo](https://astro-zen-blog.yujay.dev/)
+- [Quiet Bar](https://github.com/itsyujay/quiet-bar) — a one-pager for a bar or restaurant. No CSS framework, no JavaScript libraries. [Demo](https://quiet-bar-theme.yujay.dev)
 
 All MIT, all free for commercial use.
 

@@ -4,7 +4,7 @@
 
 一个使用 Astro 构建的现代简约作品集模板，设计灵感来自苹果的设计美学。
 
-在线演示: [apple-style-portfolio](https://apple-style-portfolio.larryxue.dev/)
+在线演示: [apple-style-portfolio](https://apple-style-portfolio.yujay.dev/)
 
 如果这个项目对你有帮助，欢迎给一个 star ⭐️。
 
@@ -52,11 +52,11 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/larry-xue/apple-style-portfolio
+git clone https://github.com/itsyujay/apple-style-portfolio
 cd apple-style-portfolio
 
 # 或者使用 astro create
-npm create astro@latest -- --template larry-xue/apple-style-portfolio
+npm create astro@latest -- --template itsyujay/apple-style-portfolio
 ```
 
 2. 安装依赖：
@@ -93,7 +93,7 @@ npm run preview
 
 ### 使用 Vercel 部署
 
-[![使用 Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/larry-xue/apple-style-portfolio)
+[![使用 Vercel 部署](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/itsyujay/apple-style-portfolio)
 
 1. Fork 这个仓库
 2. 使用你的 GitHub 账号连接到 Vercel
@@ -127,10 +127,10 @@ npm run preview
 
 ## 其他 Astro 模板
 
-- **[Astroloop](https://github.com/lx-themes/astroloop)** —— 面向 AI agent 产品的落地页：带人工闸门的 agent loop 流程图，以及逐工具的权限矩阵。[Demo](https://astroloop.larryxue.dev)
-- [Astro Sassify](https://github.com/larry-xue/astro-sassify-template) —— SaaS 落地页，完整设计系统、暗色模式与视图过渡。[Demo](https://astro-sassify.larryxue.dev/)
-- [Astro Zen Blog](https://github.com/larry-xue/astro-zen-blog) —— 极简博客，排版针对长文阅读调过。[Demo](https://astro-zen-blog.larryxue.dev/)
-- [Quiet Bar](https://github.com/larry-xue/quiet-bar) —— 酒吧 / 餐厅单页。无 CSS 框架，无 JS 库。[Demo](https://quiet-bar-theme.larryxue.dev)
+- **[Astroloop](https://github.com/lx-themes/astroloop)** —— 面向 AI agent 产品的落地页：带人工闸门的 agent loop 流程图，以及逐工具的权限矩阵。[Demo](https://astroloop.yujay.dev)
+- [Astro Sassify](https://github.com/itsyujay/astro-sassify-template) —— SaaS 落地页，完整设计系统、暗色模式与视图过渡。[Demo](https://astro-sassify.yujay.dev/)
+- [Astro Zen Blog](https://github.com/itsyujay/astro-zen-blog) —— 极简博客，排版针对长文阅读调过。[Demo](https://astro-zen-blog.yujay.dev/)
+- [Quiet Bar](https://github.com/itsyujay/quiet-bar) —— 酒吧 / 餐厅单页。无 CSS 框架，无 JS 库。[Demo](https://quiet-bar-theme.yujay.dev)
 
 全部 MIT，均可商用。
 
